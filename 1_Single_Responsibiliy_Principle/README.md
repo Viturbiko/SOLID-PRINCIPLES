@@ -1,6 +1,3 @@
-# PRINCIPIOS SOLID
-Teoría principios SOLID
-
 # SINGLE RESPONSIBILITY PRINCIPLE
 ## Concepto:
 - Una clase = Un concepto y responsabilidad
