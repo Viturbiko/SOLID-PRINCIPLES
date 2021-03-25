@@ -3,8 +3,8 @@
 class Book
 {
 	public $title = "A great book";
-    public $author = "John Doe";
-    public $currentPage = "current page content";
+	public $author = "John Doe";
+	public $currentPage = "current page content";
 }
 
 interface Printer
